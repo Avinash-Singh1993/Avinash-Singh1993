@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Avinash-Singh1993
 - 👀 I’m interested in developing scalable web applications and exploring new technologies.
 - 🌱 I’m currently learning advanced concepts in the MERN Stack.
+- 📚 I’m currently a teacher, and I teach C/C++, Python, HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind, React, and Django.
 - 💞️ I’m looking to collaborate on projects involving full-stack development, especially those that require innovative solutions.
 - 📫 How to reach me: You can reach me via email at avinash.singh2020@yahoo.com / asj.don@gmail.com or Feel free to connect with me on WhatsApp. +91-7389362263.
 - 😄 Pronouns: He.
