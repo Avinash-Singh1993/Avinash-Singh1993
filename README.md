@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Avinash-Singh1993
+- 👀 I’m interested in developing scalable web applications and exploring new technologies.
+- 🌱 I’m currently learning advanced concepts in the MERN Stack.
+- 💞️ I’m looking to collaborate on projects involving full-stack development, especially those that require innovative solutions.
+- 📫 How to reach me: You can reach me via email at avinash.singh2020@yahoo.com / asj.don@gmail.com or Feel free to connect with me on WhatsApp. +91-7389362263.
+- 😄 Pronouns: He.
+- ⚡ Fun fact: I have been a MERN Stack developer for about 1 year and have worked on projects ranging from small-scale websites to large-scale eCommerce web applications.
