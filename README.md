@@ -5,10 +5,12 @@ I'm a passionate full-stack developer and educator with a keen interest in build
 I also excel in front-end development and bring a unique edge with my strong graphic design skills, allowing me to craft visually compelling and user-centric interfaces.  
 With a background in teaching and real-world development, I bring clarity, creativity, and technical excellence to every project I undertake.
 
+Currently working at **SMSGatewayHub** as a **Web Developer and Graphic Designer**, where I contribute to building and designing scalable and intuitive web applications.
+
 ---
 
 ### 💼 What I Do
-- 👨‍🏫 Currently teaching: `C/C++`, `Python`, `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`, `Tailwind CSS`, `React`, `Next.js`, and `Django`
+- 👨‍🏫 Currently teaching: `C/C++`, `Python`, `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`, `Tailwind CSS`, `PHP` , `SQL` , `React`, `Next.js`, and `Django`
 - 🌱 Currently learning: Advanced concepts in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🔍 Exploring: Latest web technologies, performance optimization, and design systems
 - 🤝 Looking to collaborate on full-stack applications that require both technical depth and creative design
