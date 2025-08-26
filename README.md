@@ -81,8 +81,8 @@ I teach core CS and modern web dev—from **basics to production**. I simplify h
 ### 📈 GitHub At a Glance
 <!-- Replace <YOUR_GITHUB_USERNAME> with your actual username -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&langs_count=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinash-Singh1993&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Singh1993&layout=compact&langs_count=8" height="150" />
 </p>
 
 ---
