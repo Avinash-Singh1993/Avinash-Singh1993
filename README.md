@@ -1,5 +1,5 @@
 <!-- Profile README for Avinash Singh -->
-<!-- Tip: Create a repo named exactly your username and put this as README.md -->
+<!-- Tip: Create a repo named exactly your username (Avinash-Singh1993) and put this as README.md -->
 
 <h1 align="center">👋 Hi, I'm Avinash Singh</h1>
 <p align="center">
@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="mailto:avinash.singh2020@yahoo.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-avinash.singh2020%40yahoo.com-blue?logo=gmail">
+    <img alt="Email (Yahoo)" src="https://img.shields.io/badge/Email-avinash.singh2020%40yahoo.com-blue?logo=gmail">
   </a>
   <a href="mailto:asj.don@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-asj.don%40gmail.com-blue?logo=gmail">
+    <img alt="Email (Gmail)" src="https://img.shields.io/badge/Email-asj.don%40gmail.com-blue?logo=gmail">
   </a>
   <a href="https://wa.me/917389362263">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B91-7389362263-25D366?logo=whatsapp&logoColor=white">
@@ -38,37 +38,14 @@ I’m a full-stack developer and teacher who loves shipping scalable web apps an
 `C/C++`, `Python`, `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`, `Tailwind CSS`,  
 `PHP`, `SQL`, `React`, `Next.js`, `Django`
 
-- 🌱 **Learning deeper:** Advanced **MERN** (MongoDB, Express, React, Node)
+- 🌱 **Learning deeper:** Advanced **MERN** (MongoDB, Express, React, Node)  
 - 🔎 **Exploring:** Performance, DX tooling, design systems, and scalable patterns
 
 ---
 
 ### 🧰 Tech Stack
-<p>
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" />&nbsp;
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" />&nbsp;
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" />&nbsp;
-  <!-- Tools / Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php,mysql,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,django,mongodb,git,github,figma,linux,aws" height="28" alt="Tech icons" />
 </p>
 
 ---
@@ -79,10 +56,25 @@ I teach core CS and modern web dev—from **basics to production**. I simplify h
 ---
 
 ### 📈 GitHub At a Glance
-<!-- Replace <YOUR_GITHUB_USERNAME> with your actual username -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash-Singh1993&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Singh1993&layout=compact&langs_count=8" height="150" />
+  <!-- Light API usage to avoid rate-limit errors -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Avinash-Singh1993&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=false&count_private=false&cache_seconds=86400&theme=transparent"
+    height="150"
+    alt="GitHub stats for Avinash-Singh1993"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Singh1993&layout=compact&langs_count=8&cache_seconds=86400&theme=transparent"
+    height="150"
+    alt="Top languages for Avinash-Singh1993"
+  />
+</p>
+<p>
+  <img
+    src="https://streak-stats.demolab.com/?user=Avinash-Singh1993&theme=transparent&hide_longest_streak=true"
+    height="150"
+    alt="GitHub streak for Avinash-Singh1993"
+  />
 </p>
 
 ---
