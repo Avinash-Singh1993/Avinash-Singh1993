@@ -45,7 +45,7 @@ I’m a full-stack developer and teacher who loves shipping scalable web apps an
 
 ### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php,mysql,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,django,mongodb,git,github,figma,linux,aws" height="28" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,mysql,bootstrap,tailwind,figma,react,nextjs,nodejs,express,mongodb,python,django,git,github,aws" height="98" alt="Tech icons" />
 </p>
 
 ---
